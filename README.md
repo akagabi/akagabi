@@ -1,4 +1,4 @@
-# Gabriel Bueno
+# Gabriel Bueno 🤙🧉
 
 Software engineer. I've worked on a lot of different things; these days it's mostly [Detail](https://detail.co), [Subwave](https://subwave.app), and on-device AI at [Desert Ant Labs](https://desertant.ai).
 
